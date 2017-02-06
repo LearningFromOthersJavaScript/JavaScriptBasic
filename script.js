@@ -316,3 +316,9 @@ frutas.splice(0,0,"Carambola","granada","granadilla");//añadiendo
 console.log(frutas);
 meses.splice(1,1,"Abril","Mayo");//repplazando
 console.log(meses);
+
+//Object Date
+var mydate=new Date();
+document.write(mydate);
+console.log(mydate ,"\n");
+document.write("hola \n");
